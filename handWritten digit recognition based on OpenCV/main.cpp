@@ -1,5 +1,5 @@
 #include"mycore.h"
-
+//ceshi
 int main()
 {
 	//ÑµÁ·SVM
